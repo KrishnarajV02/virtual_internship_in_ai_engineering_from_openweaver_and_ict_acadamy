@@ -1,4 +1,4 @@
-""" Write a python program to showcase the use of confusion_matrix function from sklearn.metrics to compute a confusion matrix for binary classification. Use pandas to label the rows and columns of the confusion matrix for better readability. Upload screenshots of both the code and the output (upload only in PNG image format).
+""" Write a python program to showcase the use of confusion_matrix function from sklearn.metrics to compute a confusion matrix for binary classification. Use pandas to label the rows and columns of the confusion matrix for better readability.
 """
 
 from sklearn import datasets
