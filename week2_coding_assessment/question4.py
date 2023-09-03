@@ -3,6 +3,10 @@
 
 # install required packages if needed (spacy and its pre-trained model "en_core_web_sm")
 
+# !pip install spacy
+# import spacy
+# spacy.cli.download("en_core_web_sm")
+
 def loc_per_spacy(text):
     import spacy
     sp_mod=spacy.load("en_core_web_sm")
